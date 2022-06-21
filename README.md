@@ -6,8 +6,11 @@ The result is 123/100 (Max Score with All Bonus is 130).
 12012902 肖煜玮 & 12012719 李思锐 & 12010336 黄慧惠
 
 ## Introduction
-Implementing an single-cycle cpu by FPGA and Verilog. The cpu is of Von-Neumann structure. We constructed several modules including Controller, Decoder, IFetch, Data Memory, ALU, I/O and etc. The I/O module includes LED, Switch, Keyboard and UART.  
-The ISA(Instruction Set Architecture) is based on Minisys. And we used Assembly to construct several test scenes.
+Implementing an single-cycle cpu by FPGA and Verilog. The cpu is of Von-Neumann structure.  
+We constructed several modules including Controller, Decoder, IFetch, Data Memory, ALU, I/O and etc.  
+The I/O module includes LED, Switch, Keyboard and UART.  
+The ISA(Instruction Set Architecture) is based on Minisys.  
+And we used Assembly to construct several test scenes.
 
 ## Implementation
 You can check the introduction and specific requirements in the CS202_Project.pdf.  
