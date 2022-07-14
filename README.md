@@ -3,7 +3,7 @@ Final project of CS202 Computer Organization - an Implementation of a single-cyc
 The result is 123/100 (Max Score with All Bonus is 130).
 
 ## Team Member
-12012902 肖煜玮 & 12012719 李思锐 & 12010336 黄慧惠
+12012902 Yuwei Xiao & 12012719 Sirui Li & 12010336 Huihui Huang
 
 ## Introduction
 Implementing an single-cycle cpu by FPGA and Verilog. The cpu is of Von-Neumann structure.  
